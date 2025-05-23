@@ -12,6 +12,8 @@ AI Code Generator is an AI-powered application that automatically generates Pyth
 
 ---
 
+![AI Code Generator Arayüzü](/Users/sevvalasi/Desktop/ai-codegen/mainpage.jpeg)
+
 ## Features
 
 - **Code Generation with Natural Language:** Generates Python code based on the user's comments.
